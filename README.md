@@ -21,3 +21,5 @@ Per feedback, I created a new repository, and will also include screen shots and
 
 
 https://lisamcgautier.github.io/responsivePortfolio/
+
+https://github.com/LisaMcGautier/responsivePortfolio
