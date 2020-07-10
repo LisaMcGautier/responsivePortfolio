@@ -12,3 +12,9 @@ I have also included additional HTML documents that represent various stages of 
 
 Per feedback, I created a new repository, and will also include screen shots and links to the improved pages.
 
+![Screenshot (236)](https://user-images.githubusercontent.com/62854999/87210802-e21b6680-c2e4-11ea-89eb-9d4dc7deb2d4.png)
+![Screenshot (237)](https://user-images.githubusercontent.com/62854999/87210805-e2b3fd00-c2e4-11ea-92ca-73e101c52177.png)
+![Screenshot (238)](https://user-images.githubusercontent.com/62854999/87210807-e2b3fd00-c2e4-11ea-81cc-63e40628a48e.png)
+![Screenshot (239)](https://user-images.githubusercontent.com/62854999/87210808-e34c9380-c2e4-11ea-8ac9-a389a7577ff4.png)
+![Screenshot (240)](https://user-images.githubusercontent.com/62854999/87210809-e34c9380-c2e4-11ea-83e7-f845afdcdbde.png)
+![Screenshot (241)](https://user-images.githubusercontent.com/62854999/87210810-e3e52a00-c2e4-11ea-9ae4-409973fa10bb.png)
