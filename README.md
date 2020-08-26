@@ -1,6 +1,6 @@
 # responsivePortfolio
 
-The first 10 or so commits of this portfolio project (under a different repository; homework2) were my efferets to recreate, using HTML and Bootstrap, several sample images provided.
+The first 10 or so commits of this portfolio project (under a different repository; homework2) were my efforts to recreate, using HTML and Bootstrap, several sample images provided.
 
 I struggled with the responsiveness of the navbar, especially at the small and extra-small breakpoints.
 
